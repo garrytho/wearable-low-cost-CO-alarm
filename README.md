@@ -41,7 +41,7 @@ This project aims to provide a simple, wearable, and cost effective early warnin
 ### [Click here to watch the demo video](https://youtu.be/ickqqJnBo1I)
 
 ## Features
-- Much lower cost of production than commercialf alternatives
+- Much lower cost of production than commercial alternatives
 - Highly portable, allowing for mobile detection across different rooms
 - Entirely open-sourced, allowing for improvement and modification of all design aspects
 - Easily understandable alerts and warnings based on relative CO concentrations
